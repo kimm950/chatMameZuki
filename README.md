@@ -4,4 +4,4 @@ firebase x react
 
 webchat application
 
-backend bye bye
+bye bye backend
